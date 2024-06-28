@@ -4,7 +4,7 @@ HEY I AM CODE
 I am working on this code and its done
 --NOW I AM PUSHING
 
-<<<<<<< HEAD
+
 //--------(9:10 AM)
 Started working on this 
 I have completed some lines of code 
