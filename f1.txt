@@ -11,5 +11,9 @@ I have completed some lines of code
 No Manager asking me to Do some other work
 
 Hey Hell -- I am Wrriten through GIHUB
-i Will Generate Confict in while merging
+
+i Will Generate Confict in while merging   
+MERGED
+HEY PLEASE RESOLVE ME WHILE MERGING TO MAIN
+
 
